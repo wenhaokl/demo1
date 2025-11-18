@@ -1,6 +1,7 @@
 {
 	"$schema": "https://turbo.build/schema.json",
 	"name": "demo1-turbo666",
+	"agent": "pnpm",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
