@@ -1,5 +1,5 @@
 {
-	"$schema": "https://turbo.build/schema.json",
+	"$schema": "codbase://turborepo/v1.json",
 	"name": "demo1-turbo666",
 	"agent": "pnpm",
 	"version": 1,
