@@ -1,6 +1,6 @@
 {
 	"$schema": "https://turbo.build/schema.json",
-	"name": "demo1-turbo",
+	"name": "demo1-turbo666",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
