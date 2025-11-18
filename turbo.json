@@ -1,5 +1,5 @@
 {
-	"$schema": "codbase://turborepo/v1.json",
+	"$schema": "ccodb",
 	"name": "demo1-turbo666",
 	"agent": "pnpm",
 	"version": 1,
