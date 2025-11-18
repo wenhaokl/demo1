@@ -4,6 +4,7 @@
 	"agent": "pnpm",
 	"version": 1,
 	"noUpdateNotifier": false,
+	"baseBranch": "main",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
