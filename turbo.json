@@ -5,6 +5,7 @@
 	"version": 1,
 	"noUpdateNotifier": false,
 	"baseBranch": "========99999====",
+	"zuozhe": "xxw",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
