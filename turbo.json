@@ -3,6 +3,7 @@
 	"name": "demo1-turbo666",
 	"agent": "pnpm",
 	"version": 1,
+	"noUpdateNotifier": false,
 	"tasks": {
 		"lint": {},
 		"check-types": {},
