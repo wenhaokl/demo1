@@ -7,9 +7,8 @@
 	"zuozhe": "xxw",
 	"baseBranch": "========99999ioio====",
 	"defalteScope": "roo-code",
-	"defalteScope2": "roo-code2",
-	"tasks":2 {
-	"tasks":2 {
+	"defalteScope": "roo-code2",
+	"tasks": {
 		"lint": {},
 		"check-types": {},
 		"test": {
