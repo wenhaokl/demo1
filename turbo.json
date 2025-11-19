@@ -4,8 +4,8 @@
 	"agent": "pnpm",
 	"version": 1,
 	"noUpdateNotifier": false,
-	"baseBranch": "========99999====",
 	"zuozhe": "xxw",
+	"baseBranch": "========99999ioio====",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
