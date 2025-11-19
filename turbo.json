@@ -1,11 +1,11 @@
 {
 	"$schema": "codb",
-	"name": "demo1-turbo666",
+	"name": "demo1-wwwturbo666",
 	"agent": "pnpm",
 	"version": 1,
 	"noUpdateNotifier": false,
 	"zuozhe": "xxw",
-	"baseBranch": "========99999ioio====",
+	"baseBranch": "========99999ioiww====",
 	"defalteScope": "roo-code",
 	"neverDeps": [],
 	"defalteScope2": "roo-code2",
