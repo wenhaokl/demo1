@@ -9,6 +9,7 @@
 	"defalteScope": "roo-code",
 	"defalteScope2": "roo-code2",
 	"defalteScope3": "roo-code3",
+	"defalteScope4": "roo-code4",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
