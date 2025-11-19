@@ -8,6 +8,7 @@
 	"baseBranch": "========99999ioio====",
 	"defalteScope": "roo-code",
 	"defalteScope2": "roo-code2",
+	"defalteScope3": "roo-code3",
 	"tasks": {
 		"lint": {},
 		"check-types": {},
